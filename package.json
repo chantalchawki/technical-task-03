@@ -1,0 +1,22 @@
+{
+  "name": "task-03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^8.4.1",
+    "typescript": "^3.6.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.17.1",
+    "reflect-metadata": "^0.1.13",
+    "typeorm": "^0.2.19"
+  }
+}
